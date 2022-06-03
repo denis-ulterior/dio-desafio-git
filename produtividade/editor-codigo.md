@@ -1,6 +1,7 @@
 # Visual Studio Code
 ***
 ## Comandos úteis
+
 **Janela de comandos:**  Ctrl + shift + p
 
 **Selecionar conteúdo igual abaixo:**  Crtl +d
@@ -12,6 +13,8 @@
 **Comentar linha:** Ctrl + /
 
 **Comentar bloco:** Shift + Alt + A
+
+[Manual de shortcuts completo](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 ***
 ## Extensão para preview de HTML
 HTML Preview
